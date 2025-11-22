@@ -1,0 +1,6 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1920" height="1080" fill="#f3f4f6"/>
+  <rect x="860" y="490" width="200" height="100" rx="8" fill="#2d8f4f"/>
+  <text x="960" y="550" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Plastoblast</text>
+  <text x="960" y="580" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16">Image Hero</text>
+</svg>

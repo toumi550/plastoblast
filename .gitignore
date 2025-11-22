@@ -1,0 +1,25 @@
+# Fichiers de test et de débogage
+test-*.html
+test-*.js
+debug-*.html
+analyze-images.html
+check-images.html
+
+# Fichiers de développement
+copy-images.bat
+copy-images.sh
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers de cache
+node_modules/
+.cache/
